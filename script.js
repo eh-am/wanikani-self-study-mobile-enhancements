@@ -5,6 +5,8 @@
 // @description  improve mobile support for wanikani self-study
 // @author       eh-am
 // @match        *://*.wanikani.com/*
+// @downloadUrl  https://raw.githubusercontent.com/eh-am/wanikani-self-study-mobile-enhancements/master/script.js
+// @updateUrl    https://raw.githubusercontent.com/eh-am/wanikani-self-study-mobile-enhancements/master/script.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
