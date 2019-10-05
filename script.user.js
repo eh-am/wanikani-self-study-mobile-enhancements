@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Wanikani Self-Study Mobile Enhancements
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  improve mobile support for wanikani self-study
 // @author       eh-am
 // @match        *://*.wanikani.com/*
@@ -32,7 +32,7 @@
 
 
 		#ss_quiz .qwrap {
-			height: 6.em !important;
+			height: 6em !important;
 		}
 
 
